@@ -24,6 +24,6 @@ description: Официальный правовой ресурс компани
 [safety](safety/)
 {% endcontent-ref %}
 
-{% content-ref url="api/oauth/" %}
-[oauth](api/oauth/)
+{% content-ref url="api/" %}
+[api](api/)
 {% endcontent-ref %}
