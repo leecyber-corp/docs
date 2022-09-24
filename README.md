@@ -8,8 +8,8 @@
 Мы обновили правовую документацию, просим вас ознакомиться с ней.
 {% endhint %}
 
-{% content-ref url="obshie-pravovye-dokumenty/" %}
-[obshie-pravovye-dokumenty](obshie-pravovye-dokumenty/)
+{% content-ref url="pravovye-dokumenty/" %}
+[pravovye-dokumenty](pravovye-dokumenty/)
 {% endcontent-ref %}
 
 {% content-ref url="o-kompanii/" %}
