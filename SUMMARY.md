@@ -1,6 +1,7 @@
 # Table of contents
 
-* [📃 Правовые документы](README.md)
+* [🏠 Главная](README.md)
+* [📃 Правовые документы](pravovye-dokumenty/README.md)
   * [Политика копирования материалов сайта](pravovye-dokumenty/politika-kopirovaniya-materialov-saita.md)
   * [Политика в отношении обработки персональных данных](pravovye-dokumenty/politika-v-otnoshenii-obrabotki-personalnykh-dannykh.md)
   * [Правила и условия использования веб-сайтов](pravovye-dokumenty/pravila-i-usloviya-ispolzovaniya-veb-saitov.md)
