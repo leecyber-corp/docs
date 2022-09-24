@@ -20,3 +20,7 @@
   * [Действия при отказе в приеме заявления в полицию](centr-bezopasnosti/deistviya-pri-otkaze-v-prieme-zayavleniya-v-policiyu.md)
   * [Если вас обманули или взломали](centr-bezopasnosti/esli-vas-obmanuli-ili-vzlomali.md)
   * [Как вернуть деньги, похищенные мошенником](centr-bezopasnosti/kak-vernut-dengi-pokhishennye-moshennikom.md)
+* [💻 oAuth ( SSO ) API](oauth-sso-api/README.md)
+  * [Код авторизации](oauth-sso-api/kod-avtorizacii.md)
+  * [Учетные данные пользователя](oauth-sso-api/uchetnye-dannye-polzovatelya.md)
+  * [Implicit](oauth-sso-api/implicit.md)
