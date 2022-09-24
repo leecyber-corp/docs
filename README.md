@@ -1,25 +1,29 @@
+---
+description: Официальный правовой ресурс компании LeeCyber.
+---
+
 # 🏠 Главная
 
 {% hint style="danger" %}
 Мы обновили правовую документацию, просим вас ознакомиться с ней.
 {% endhint %}
 
-{% content-ref url="pravovye-dokumenty/" %}
-[pravovye-dokumenty](pravovye-dokumenty/)
+{% content-ref url="legal/" %}
+[legal](legal/)
 {% endcontent-ref %}
 
-{% content-ref url="pravovye-dokumenty/dokumenty-servisov/" %}
-[dokumenty-servisov](pravovye-dokumenty/dokumenty-servisov/)
+{% content-ref url="legal/services/" %}
+[services](legal/services/)
 {% endcontent-ref %}
 
-{% content-ref url="o-kompanii/" %}
-[o-kompanii](o-kompanii/)
+{% content-ref url="company/" %}
+[company](company/)
 {% endcontent-ref %}
 
-{% content-ref url="centr-bezopasnosti/" %}
-[centr-bezopasnosti](centr-bezopasnosti/)
+{% content-ref url="safety/" %}
+[safety](safety/)
 {% endcontent-ref %}
 
-{% content-ref url="oauth-sso-api/" %}
-[oauth-sso-api](oauth-sso-api/)
+{% content-ref url="api/oauth/" %}
+[oauth](api/oauth/)
 {% endcontent-ref %}
