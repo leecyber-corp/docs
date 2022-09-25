@@ -7,6 +7,7 @@
     * [Условия использования сервиса Forms (для респондентов)](legal/services/usloviya-ispolzovaniya-servisa-forms-dlya-respondentov.md)
     * [Условия использования сервиса Account](legal/services/usloviya-ispolzovaniya-servisa-account.md)
     * [Условия использования сервиса Dashboard](legal/services/usloviya-ispolzovaniya-servisa-dashboard.md)
+    * [Условия использования сервиса Pay](legal/services/usloviya-ispolzovaniya-servisa-pay.md)
     * [Условия предоставления подписок](legal/services/usloviya-predostavleniya-podpisok.md)
   * [Политика копирования материалов сайта](legal/politika-kopirovaniya-materialov-saita.md)
   * [Правила и условия использования веб-сайтов](legal/pravila-i-usloviya-ispolzovaniya-veb-saitov.md)
