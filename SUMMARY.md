@@ -30,3 +30,4 @@
   * [Код авторизации](api/kod-avtorizacii.md)
   * [Учетные данные пользователя](api/uchetnye-dannye-polzovatelya.md)
   * [Implicit](api/implicit.md)
+* [💵 Ценовая политика](cenovaya-politika.md)
