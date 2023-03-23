@@ -30,3 +30,8 @@
   * [Код авторизации](api/kod-avtorizacii.md)
   * [Учетные данные пользователя](api/uchetnye-dannye-polzovatelya.md)
   * [Implicit](api/implicit.md)
+* [🛡 Bug-Bounty](bug-bounty/README.md)
+  * [Политика ответственного раскрытия информации об обнаруженных уязвимостях](bug-bounty/politika-otvetstvennogo-raskrytiya-informacii-ob-obnaruzhennykh-uyazvimostyakh.md)
+  * [Что не нужно присылать?](bug-bounty/chto-ne-nuzhno-prisylat.md)
+  * [Что не претендует на вознаграждение?](bug-bounty/chto-ne-pretenduet-na-voznagrazhdenie.md)
+  * [Политика тестирования SQL инъекций](bug-bounty/politika-testirovaniya-sql-inekcii.md)
