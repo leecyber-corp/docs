@@ -6,7 +6,7 @@
 
 ```
 GET
-https://dash.leecyber.ru/oauth/authorize/
+https://dash.leecyber.com/oauth/authorize/
 ```
 
 **Запрос**
@@ -63,7 +63,8 @@ oauth/token
 ### Запрос информации о пользователе
 
 <pre><code><strong>GET
-</strong>oauth/me</code></pre>
+</strong>oauth/me
+</code></pre>
 
 * **access\_token** (обязательно) — это должен быть действительный маркер доступа
 
