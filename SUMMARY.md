@@ -3,6 +3,7 @@
 * [🏠 Главная](README.md)
 * [📃 Правовые документы](legal/README.md)
   * [📖 Документы сервисов](legal/services/README.md)
+    * [Условия использования функции «Хранение документов в LeeCyber Account»](legal/services/usloviya-ispolzovaniya-funkcii-khranenie-dokumentov-v-leecyber-account.md)
     * [Политика в отношении обработки персональных данных в сервисе Docs](legal/services/politika-v-otnoshenii-obrabotki-personalnykh-dannykh-v-servise-docs.md)
     * [Условия использования сервиса Forms (для респондентов)](legal/services/usloviya-ispolzovaniya-servisa-forms-dlya-respondentov.md)
     * [Условия использования сервиса Account](legal/services/usloviya-ispolzovaniya-servisa-account.md)
